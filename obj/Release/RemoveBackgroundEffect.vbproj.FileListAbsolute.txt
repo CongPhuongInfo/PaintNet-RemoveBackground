@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\bin\RemoveBackgroundEffect.deps.json
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\bin\RemoveBackgroundEffect.dll
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\bin\RemoveBackgroundEffect.pdb
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.dll
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\refint\RemoveBackgroundEffect.dll
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.pdb
+C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\ref\RemoveBackgroundEffect.dll
