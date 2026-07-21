@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Downloads\\PaintNet-RemoveBackground\\RemoveBackgroundEffect.vbproj": {}
+    "D:\\Phần mềm tổng hợp\\Paint Net\\Plugins\\PaintNet-RemoveBackground\\RemoveBackgroundEffect.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Downloads\\PaintNet-RemoveBackground\\RemoveBackgroundEffect.vbproj": {
+    "D:\\Phần mềm tổng hợp\\Paint Net\\Plugins\\PaintNet-RemoveBackground\\RemoveBackgroundEffect.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\PaintNet-RemoveBackground\\RemoveBackgroundEffect.vbproj",
+        "projectUniqueName": "D:\\Phần mềm tổng hợp\\Paint Net\\Plugins\\PaintNet-RemoveBackground\\RemoveBackgroundEffect.vbproj",
         "projectName": "RemoveBackgroundEffect",
-        "projectPath": "C:\\Users\\Administrator\\Downloads\\PaintNet-RemoveBackground\\RemoveBackgroundEffect.vbproj",
+        "projectPath": "D:\\Phần mềm tổng hợp\\Paint Net\\Plugins\\PaintNet-RemoveBackground\\RemoveBackgroundEffect.vbproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Downloads\\PaintNet-RemoveBackground\\obj\\",
+        "outputPath": "D:\\Phần mềm tổng hợp\\Paint Net\\Plugins\\PaintNet-RemoveBackground\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

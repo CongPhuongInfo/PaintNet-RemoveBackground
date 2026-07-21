@@ -8,3 +8,14 @@ C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\RemoveBac
 C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\refint\RemoveBackgroundEffect.dll
 C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.pdb
 C:\Users\Administrator\Downloads\PaintNet-RemoveBackground\obj\Release\ref\RemoveBackgroundEffect.dll
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\bin\RemoveBackgroundEffect.deps.json
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\bin\RemoveBackgroundEffect.dll
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\bin\RemoveBackgroundEffect.pdb
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.vbproj.AssemblyReference.cache
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.vbproj.CoreCompileInputs.cache
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.sourcelink.json
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.dll
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\obj\Release\refint\RemoveBackgroundEffect.dll
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\obj\Release\RemoveBackgroundEffect.pdb
+D:\Phần mềm tổng hợp\Paint Net\Plugins\PaintNet-RemoveBackground\obj\Release\ref\RemoveBackgroundEffect.dll
